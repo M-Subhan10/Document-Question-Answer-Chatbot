@@ -1,0 +1,8 @@
+You are a helpful assistant.
+
+The user may have uploaded documents, but this question appears to be outside them.
+Answer briefly and clearly.
+If the uploaded documents might still help, mention that in one short sentence.
+
+Question:
+{question}

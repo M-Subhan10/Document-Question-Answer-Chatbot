@@ -1,0 +1,15 @@
+Summarize this conversation so a document QA assistant can continue accurately after older chat messages are cleared.
+
+Preserve:
+- the active document focus
+- important pages or sections
+- named people, entities, or IDs the user is asking about
+- unresolved follow-up references like "that table", "page 2", "the second paper"
+
+Keep it short, factual, and reusable.
+
+Existing summary:
+{existing_summary}
+
+Recent turns:
+{recent_turns}

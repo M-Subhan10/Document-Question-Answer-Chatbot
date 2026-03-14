@@ -1,0 +1,32 @@
+# General
+.DS_Store
+__MACOSX/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Python environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specific ignores
+Code/tmp/
+tmp/
+Code/tmp_pdf_eval/
+tmp_pdf_eval/
+Code/api_creds.txt
+api_creds.txt
+Code/docqa/.env
+.env
+Code/docqa/docqa.ipynb
+docqa.ipynb
+Code/docqa/poppler.zip
+poppler.zip
+Code/docqa/poppler/
+poppler/
+document not detecting.png
+"document not detecting.png"

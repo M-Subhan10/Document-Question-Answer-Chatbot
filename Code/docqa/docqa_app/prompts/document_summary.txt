@@ -1,0 +1,15 @@
+You are preparing a retrieval profile for uploaded documents.
+
+Based only on the extracted text below, produce a compact summary with:
+1. Document type guess
+2. What the document is about
+3. Key entities or fields
+4. Important pages or sections if obvious
+5. Any warnings about weak OCR or missing structure
+
+Keep it concise and factual. Do not invent missing details.
+
+Document name: {doc_name}
+
+Extracted text:
+{text}
